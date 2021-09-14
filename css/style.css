@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(251, 255, 212);
+}
+h1 {
+    font-size: 35px;
+    letter-spacing: 10px;
+    line-height: 9;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+
+h2 {
+    font-size: 200px;
+    line-height: .01;
+    margin-top: 0px;
+}
+
+h3 {
+    font-size: 35px;
+    letter-spacing: 10px;
+    line-height: 9;
+    margin-bottom: 0px;
+    margin-top:-195px;
+    margin-left: 895px;
+}
+
+a:link { text-decoration-line: none;
+    color:black;
+    }
+
+
+a:visited { color:black;
+    }
+
+
+a:hover {  color:black;
+    }
+
+
+a:active { color:black;
+    }
+
+.begin-button {
+    Margin-left: 850px;
+    margin-top: -70px;
+    width: 550px;
+}
